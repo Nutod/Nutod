@@ -7,6 +7,14 @@ Accessibility, maintainability and code quality are a core part of my approach t
 
 You can find out more about me here [Check out my portfolio.](https://oladotunaluko.com/)
 
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+- [Flexible Design Systems with CSS Custom Properties](https://www.oladotunaluko.com/posts/flexible-design-systems-with-css-custom-properties)
+- [Annotating React Components with Typescript](https://www.oladotunaluko.com/posts/annotating-react-components-with-typescript)
+- [React Hooks Up and Running](https://www.oladotunaluko.com/posts/react-hooks-up-and-running-p1)
+<!-- BLOG-POST-LIST:END -->
+
 ## 📌 Pinned Repositories
 
 <br>
